@@ -6,11 +6,11 @@ body {
 	padding: 1em;
 	border: 1px solid navy;
 }
-h1 {
+h1 {red
 	margin: 0;
 	padding: .25em;
 	font-size: 200%;
-	color: red(255, 0, 0);
+	color: (255, 0, 0);
 }
 img  {
 	float: left;
